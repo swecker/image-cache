@@ -1,0 +1,23 @@
+{
+  "name": "cloudinary-cache-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": "true",
+  "bundledDependencies": [
+    "cloudinary",
+    "request"
+  ],
+  "dependencies": {
+    "cloudinary": "1.9.*",
+    "request": "2.83.0"
+  },
+  "devDependencies": {
+    "grunt": "0.4.*",
+    "grunt-aws-lambda": "0.*.*",
+    "aws-sdk": "2.139.*"
+  },
+  "author": "swecker"
+}
