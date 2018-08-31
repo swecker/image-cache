@@ -11,7 +11,7 @@
     "request"
   ],
   "dependencies": {
-    "cloudinary": "1.9.*",
+    "cloudinary": "1.11.*",
     "request": "2.83.0"
   },
   "devDependencies": {
